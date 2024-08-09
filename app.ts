@@ -50,6 +50,8 @@ const shortNames: { [key: string]: string } = {
   ghactions: 'githubactions',
   sklearn: 'scikitlearn',
   uniswap: 'uniswap',
+  pancakeswap: 'pancakeswap',
+  jup6: 'jup6',
 };
 
 const themedIcons: string[] = [
