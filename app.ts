@@ -56,6 +56,7 @@ const shortNames: { [key: string]: string } = {
   polygon: 'polygon',
   bnb: 'bnb',
   ethereum: 'ethereum',
+  telegram: 'telegram',
 };
 
 const themedIcons: string[] = [
