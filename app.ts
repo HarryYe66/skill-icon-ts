@@ -52,6 +52,10 @@ const shortNames: { [key: string]: string } = {
   uniswap: 'uniswap',
   pancakeswap: 'pancakeswap',
   jup6: 'jup6',
+  solana: 'solana',
+  polygon: 'polygon',
+  bnb: 'bnb',
+  ethereum: 'ethereum',
 };
 
 const themedIcons: string[] = [
