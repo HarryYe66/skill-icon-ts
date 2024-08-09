@@ -322,5 +322,12 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `yew`        |      <img src="./icons/Yew-Dark.svg" width="48">      |
 |       `zig`        |      <img src="./icons/Zig-Dark.svg" width="48">      |
 |     `uniswap`      |    <img src="./icons/Uniswap-Dark.svg" width="48">    |
+|   `pancakeswap`    |    <img src="./icons/Pancakeswap.svg" width="48">     |
+|       `jup6`       |        <img src="./icons/jup6.svg" width="48">        |
+|      `solana`      |       <img src="./icons/solana.svg" width="48">       |
+|     `polygon`      |      <img src="./icons/polygon.svg" width="48">       |
+|       `bnb`        |        <img src="./icons/bnb.svg" width="48">         |
+|     `ethereum`     |      <img src="./icons/ethereum.svg" width="48">      |
+|     `telegram`     |      <img src="./icons/telegram.svg" width="48">      |
 
 ---
