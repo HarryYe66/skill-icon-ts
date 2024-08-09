@@ -53,7 +53,7 @@ Change the `&theme=light` to either `dark` or `light`. The theme is the backgrou
 
 You can specify how many icons you would like per line! It's an optional argument, and the default is 15.
 
-Change the `&perline=3` to any number between 1 and 50.
+Change the `&perline=3` to any number between 1 and 50./
 
 ```md
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
