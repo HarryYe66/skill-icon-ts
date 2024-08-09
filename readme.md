@@ -321,13 +321,6 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `yarn`       |     <img src="./icons/Yarn-Dark.svg" width="48">      |
 |       `yew`        |      <img src="./icons/Yew-Dark.svg" width="48">      |
 |       `zig`        |      <img src="./icons/Zig-Dark.svg" width="48">      |
+|     `uniswap`      |    <img src="./icons/Uniswap-Dark.svg" width="48">    |
 
 ---
-
-## 💖 Support the Project
-
-Thank you so much already for using my projects! If you want to go a step further and support my open source work, buy me a coffee:
-
-<a href='https://ko-fi.com/Q5Q860KQ2' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-To support the project directly, feel free to open issues for icon suggestions, or contribute with a pull request!

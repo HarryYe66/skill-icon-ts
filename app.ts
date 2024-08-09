@@ -49,6 +49,7 @@ const shortNames: { [key: string]: string } = {
   rxjava: 'reactivex',
   ghactions: 'githubactions',
   sklearn: 'scikitlearn',
+  uniswap: 'uniswap',
 };
 
 const themedIcons: string[] = [
