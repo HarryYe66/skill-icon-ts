@@ -57,6 +57,7 @@ const shortNames: { [key: string]: string } = {
   bnb: 'bnb',
   ethereum: 'ethereum',
   telegram: 'telegram',
+  x: 'x',
 };
 
 const themedIcons: string[] = [

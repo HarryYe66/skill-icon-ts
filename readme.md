@@ -331,5 +331,6 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `bnb`        |        <img src="./icons/Bnb.svg" width="48">         |
 |     `ethereum`     |      <img src="./icons/Ethereum.svg" width="48">      |
 |     `telegram`     |      <img src="./icons/Telegram.svg" width="48">      |
+|        `x`         |       <img src="./icons/X-Dark.svg" width="48">       |
 
 ---
